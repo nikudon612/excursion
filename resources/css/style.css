@@ -11,6 +11,11 @@ body {
     color: white;
 }
 
+.header-link {
+    color: aquamarine;
+    font-size: 16px;
+}
+
 footer {
     display: block;
     text-align: right;
