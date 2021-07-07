@@ -15,17 +15,26 @@ body {
     font-size: 16px;
 }
 
-.second-heading {
+.subheading {
     color: white;
     font-weight: 300;
     font-size: 42px;
 }
 
-.second-heading-desc {
+.subheading-desc {
     font-size: 21px;
     color: gray;
 }
 
+.final-heading {
+    color: white;
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.smallphone {
+    padding-top: 15px;s
+}
 footer {
     display: block;
     text-align: right;
