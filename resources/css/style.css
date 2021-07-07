@@ -2,7 +2,6 @@ body {
     font-family: Verdana, Tahoma, sans-serif;
     background-color: black;
     text-align: center;
-    
 }
 
 .header-text {
@@ -14,6 +13,17 @@ body {
 .header-link {
     color: aquamarine;
     font-size: 16px;
+}
+
+.second-heading {
+    color: white;
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.second-heading-desc {
+    font-size: 21px;
+    color: gray;
 }
 
 footer {
